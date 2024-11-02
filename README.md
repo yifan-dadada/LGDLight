@@ -1,2 +1,2 @@
 # LGDLight
-The training files will be uploaded later after processing.
+The code to start training is uploaded after processing.
